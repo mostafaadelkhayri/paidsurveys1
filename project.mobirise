@@ -73,7 +73,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"http://movfe.com/offer.php?id=1372623&amp;pub=775069\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Paid Surveys</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"http://movfe.com/offer.php?id=1372623&amp;pub=775069\">Get Offer</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact us</a></li> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Welcome\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact us</a></li> "
         },
         {
           "alias": "purity/components",
@@ -239,7 +239,7 @@
           },
           "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"http://movfe.com/offer.php?id=1372623&amp;pub=775069\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Paid Surveys</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"http://movfe.com/offer.php?id=1372623&amp;pub=775069\">Get Offer</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact us</a></li> "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Welcome\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"Contact Us\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Contact us</a></li> "
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
