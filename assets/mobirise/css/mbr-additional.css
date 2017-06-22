@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+#ext_menu-1 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-1 .navbar-brand {
+  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
+}
+#footer1-3 P {
+  text-align: center;
+}
+
+#ext_menu-0 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-0 .navbar-brand {
+  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
+}
+#slider-2 H2 {
+  color: #0275d8;
+}
+#slider-2 I {
+  color: #d80242;
+}
+#footer1-3 P {
+  text-align: center;
+}
