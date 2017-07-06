@@ -14,7 +14,7 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/images-2-128x128.png",
     "noImageResize": "",
-    "google-analytics": "<meta name=\"verify-admitad\" content=\"25a88272ce\" />",
+    "google-analytics": "<!-- verify-admitad: \"25a88272ce\" -->",
     "cookiesAlert": ""
   },
   "pages": {
